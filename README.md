@@ -1,6 +1,7 @@
-The working video is available on the following Youtube link.
+The Projectdemonstration is available on the following Youtube link.
 
 https://www.youtube.com/watch?v=gJ8KwYtiN78
+
 https://www.youtube.com/watch?v=kPr-Vk81T_0
 
 Description: This project is the demonstration of a smart lock. Here the user can open the door with the help of the Smartphone.
