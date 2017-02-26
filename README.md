@@ -1,4 +1,4 @@
-The Projectdemonstration is available on the following Youtube link.
+The Project demonstration is available on the following Youtube link.
 
 https://www.youtube.com/watch?v=gJ8KwYtiN78
 
